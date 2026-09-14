@@ -1,6 +1,6 @@
 # BIODATA
 ALL COMMANDS REQUIRED
-npm init -y
+npm init -ys
 npm install nodemon
 npm install ejs
 npm install express
