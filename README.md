@@ -14,6 +14,8 @@ npm install mysql
 mkdir views - (index should be inside views folder)
 
 
+
+
 [DATABASE CALLED]
 
 ui_3_3_26
